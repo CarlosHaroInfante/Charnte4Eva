@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\chante4Eva\bin\Debug\net7.0\chante4Eva.exe
+C:\Users\Carlos\Desktop\Programación\chante4Eva\bin\Debug\net7.0\chante4Eva.deps.json
+C:\Users\Carlos\Desktop\Programación\chante4Eva\bin\Debug\net7.0\chante4Eva.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\chante4Eva\bin\Debug\net7.0\chante4Eva.dll
+C:\Users\Carlos\Desktop\Programación\chante4Eva\bin\Debug\net7.0\chante4Eva.pdb
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\chante4Eva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\chante4Eva.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\chante4Eva.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\chante4Eva.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\chante4Eva.dll
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\refint\chante4Eva.dll
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\chante4Eva.pdb
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\chante4Eva.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\chante4Eva\obj\Debug\net7.0\ref\chante4Eva.dll
